@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Mukta:wght@800&family=Mulish:wght@400;700&family=Open+Sans:wght@300;500;600&family=Roboto:wght@900&display=swap');
+
+@font-face {
+    font-family: 'font1';
+    src: url('/public/Gilroy-Medium.e7e7c091.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'font2';
+    src: url('/public/Gilroy-SemiBold.f3ed44cd.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'font3';
+    src: url('/public/Mazius-Extraitalic.121a71a7.otf') format('truetype');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
